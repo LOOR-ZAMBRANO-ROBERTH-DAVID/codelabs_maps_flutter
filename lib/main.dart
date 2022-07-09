@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'assets/locations.json';
+import '/locations.dart' as locations;
+
 
 void main() {
   runApp(const MyApp());
